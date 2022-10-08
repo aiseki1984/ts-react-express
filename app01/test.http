@@ -1,0 +1,35 @@
+###
+
+GET http://localhost:8800/
+ 
+###
+
+GET http://localhost:8800/api/posts
+ 
+###
+
+GET http://localhost:8800/api/posts/1
+ 
+###
+POST http://localhost:8800/api/auth/register
+Content-Type: application/json
+
+{
+  "email": "test.test123@test.com",
+  "password": "test123"
+}
+ 
+ 
+###
+# Toggle isCompleted state
+PATCH http://localhost:8800/todos/4
+Content-Type: application/json
+
+{
+    "isCompleted": true
+}
+ 
+###
+# Delete todo
+DELETE http://localhost:8800/todos/5
+ 

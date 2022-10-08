@@ -26,3 +26,7 @@ https://www.youtube.com/watch?v=0aPLk2e2Z3g
 - [npm で React(TypeScript) に ESLint と Prettier を導入](https://zenn.dev/nakashi94/articles/f67fa9b54437da)
 
 - [Prettier の導入方法 フロントエンド開発で必須のコード整形ツール](https://ics.media/entry/17030/)
+
+## backend cf
+
+- [Node.js・Express で multer を使って、ファイルをアップロードする方法](https://qiita.com/tronicboy/items/e71c5f22a5a7da0faa36) -[How to Use MySQL in Node.js and Express.js with TypeScript](https://www.becomebetterprogrammer.com/mysql-nodejs-expressjs-typescript/)
