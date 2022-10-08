@@ -135,6 +135,7 @@ $lightGreen: #b9e7e7;
 
         .post {
           display: flex;
+          align-items: flex-start;
           gap: 100px;
 
           &:nth-child(2n + 1) {

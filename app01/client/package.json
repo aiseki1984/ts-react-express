@@ -10,9 +10,12 @@
     "@types/node": "^16.11.63",
     "@types/react": "^18.0.21",
     "@types/react-dom": "^18.0.6",
-    "axios": "^0.27.2",
+    "axios": "^1.1.2",
+    "dompurify": "^2.4.0",
+    "moment": "^2.29.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-quill": "^2.0.0",
     "react-router-dom": "^6.4.1",
     "react-scripts": "5.0.1",
     "sass": "^1.55.0",
@@ -39,6 +42,7 @@
     ]
   },
   "devDependencies": {
+    "@types/dompurify": "^2.3.4",
     "@typescript-eslint/eslint-plugin": "^5.38.1",
     "eslint": "^8.24.0",
     "eslint-config-prettier": "^8.5.0",
